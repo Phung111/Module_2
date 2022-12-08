@@ -30,7 +30,7 @@ public class Ex_8_SumCross_ArrayLv2 {
         int sum = 0;
         for (int row = 0; row < arr.length; row++) {
             for (int column = 0; column < arr[row].length; column++) {
-                if ( row + column == arr.length) {
+                if ( row + column == arr.length-1) {
                     sum += arr[row][column];
                 }
 
