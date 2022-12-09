@@ -2,69 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a38a11b4-df91-441a-b80d-5326bb0354f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ex_1_Show_Hello/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_1_Show_Hello/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_1_Show_Hello/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_1_Show_Hello/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_1_Show_Hello/Ex_1_Show_Hello.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_1_Show_Hello/out/production/Ex_1_Show_Hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_1_Show_Hello/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_2_Number_To_Letter/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_2_Number_To_Letter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_2_Number_To_Letter/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_2_Number_To_Letter/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_2_Number_To_Letter/Ex_2_Nunmber_To_Letter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_2_Number_To_Letter/out/production/Ex_2_Nunmber_To_Letter/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_2_Number_To_Letter/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1_TimeSystem/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1_TimeSystem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1_TimeSystem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1_TimeSystem/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1_TimeSystem/newProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1_TimeSystem/out/production/newProject/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_1_TimeSystem/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_2_Variable/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_2_Variable/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_2_Variable/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_2_Variable/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_2_Variable/Practice_2_Variable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_2_Variable/out/production/Practice_2_Variable/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_2_Variable/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_3_Operater/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_3_Operater/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_3_Operater/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_3_Operater/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_3_Operater/Practice_3_Operater.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_3_Operater/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_4_ax/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_4_ax/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_4_ax/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_4_ax/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_4_ax/Practice_4_ax.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_4_ax/out/production/Practice_4_ax/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_4_ax/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_5_Count_Date_30_31/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_5_Count_Date_30_31/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_5_Count_Date_30_31/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_5_Count_Date_30_31/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_5_Count_Date_30_31/Practice_5_Count_Date_30_31.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_5_Count_Date_30_31/out/production/Practice_5_Count_Date_30_31/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_5_Count_Date_30_31/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_6_LeapYear/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_6_LeapYear/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_6_LeapYear/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_6_LeapYear/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_6_LeapYear/Practice_6_LeapYear.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_6_LeapYear/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_7_Weight_Boby/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_7_Weight_Boby/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_7_Weight_Boby/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_7_Weight_Boby/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_7_Weight_Boby/Practice_7_Weight_Boby.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_7_Weight_Boby/out/production/Practice_7_Weight_Boby/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_7_Weight_Boby/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Class_Object/Class_Object/out/production/Class_Object/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.Class_Object/Class_Object/out/production/Class_Object/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Class_Object/Class_Object/out/production/Class_Object/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/4.Class_Object/Class_Object/out/production/Class_Object/StopWatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Class_Object/Class_Object/src/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.Class_Object/Class_Object/src/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Class_Object/Class_Object/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.Class_Object/Class_Object/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Class_Object/Class_Object/src/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.Class_Object/Class_Object/src/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellojava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hellojava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellojava/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hellojava/hellojava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellojava/out/production/hellojava/com/codegym/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellojava/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,14 +26,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670376168075</updated>
       <workItem from="1670376169585" duration="108000" />
+      <workItem from="1670577735851" duration="145000" />
     </task>
     <servers />
   </component>
